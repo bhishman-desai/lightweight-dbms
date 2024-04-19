@@ -40,4 +40,4 @@ Contributions to enhance the app's functionality or address any issues are welco
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md).
+This project is licensed under the [MIT License](LICENSE).
